@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ANything</string>
+
+
+    <string name="toast"> Toast </string>
+    <string name="counter"> Counter </string>
+    <string name="move"> Move </string>
+
+    <string name="take_me_back">Take me back</string>
+</resources>
